@@ -10,5 +10,5 @@ Aqui está um resumo das tensões de uma fonte de alto desempenho e suas funçõ
 
 > **Observação:** Nas fontes atuais de alto desempenho, todos os cabos são pretos.
 >
-### fotos
+### fotos do Tinkercad
 <img width="490" height="317" alt="eletronica " src="https://github.com/user-attachments/assets/e4eef7fa-2185-49ce-b7d2-5a1c4fc7a8b5" />
