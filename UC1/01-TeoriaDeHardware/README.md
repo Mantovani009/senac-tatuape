@@ -1,4 +1,4 @@
-# 🖥️ Ryzen 9 9950X vs Ryzen 7 9800X3D em Jogos
+# 🖥️ Ryzen 9 9950X vs Ryzen 7 9800X3D em Jogos data:04/09/2025
 
 ## ⚡ Ryzen 9 9950X
 - **16 núcleos / 32 threads**  
