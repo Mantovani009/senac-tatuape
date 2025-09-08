@@ -1,19 +1,31 @@
 
-# 🔌 Aula de Eletrônica Básica com Arduino  
+# Aula de Eletrônica Básica com Arduino
 
-Este repositório contém exemplos de código e explicações para aprender os conceitos básicos de **eletrônica e programação com Arduino**.  
+## Projeto: Pisca LED 💡
+
+Este projeto é o clássico **Blink** do Arduino.  
+Ele faz um LED piscar em intervalos de tempo programados.
 
 ---
 
-## 📖 Estrutura de um programa no Arduino  
-
-Um programa no Arduino (chamado de *sketch*) sempre possui duas funções principais:  
+## Código Fonte
 
 ```cpp
+/**
+ * Pisca LED
+ * @author Eduardo Mantovani
+ */
+
+// Função de configuração (executa uma vez)
 void setup() {
-  // Código que roda apenas uma vez, ao ligar ou resetar o Arduino
+  pinMode(13, OUTPUT); // Define o pino 13 como saída
 }
 
+// Função principal (repete para sempre)
 void loop() {
-  // Código que roda continuamente em repetição
+  digitalWrite(13, HIGH); // Liga o LED
+  delay(1000);            // Aguarda 1 segundo
+  digitalWrite(13, LOW);  // Desliga o LED
+  delay(1000);            // Aguarda 1 segundo
 }
+
