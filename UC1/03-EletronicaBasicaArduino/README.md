@@ -14,11 +14,4 @@ void loop() {
   // Aqui vai o código que roda continuamente,
   // em repetição infinita.
 }
-
-<img width="874" height="638" alt="aula" src="https://github.com/user-attachments/assets/b73557aa-bf82-4140-a018-4ac142092a14" />
-
-
-
-
-
-
+****
