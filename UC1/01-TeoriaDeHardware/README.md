@@ -23,3 +23,16 @@
 
 ## 🤔 Por que o 9800X3D vence em jogos?
 - **Jogos não utilizam todos os núcleos** disponíveis (g
+
+
+# 📘 Estudo da Placa-Mãe MSI Pro A620M-E
+
+A placa-mãe é um dos principais componentes de um computador. Ela conecta e interliga todos os outros dispositivos, permitindo a comunicação entre processador, memória, armazenamento e periféricos.  
+
+Abaixo estão descritos os principais componentes identificados na imagem:  
+
+---
+
+## 🔢 Componentes numerados
+
+### 1. **Soquete do Pro**
