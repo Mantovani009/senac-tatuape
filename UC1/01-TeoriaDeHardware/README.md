@@ -129,3 +129,6 @@ A imagem abaixo mostra a placa-mãe com todos os componentes numerados:
 
 # ✅ Conclusão
 A placa-mãe é essencial para o funcionamento do PC, pois conecta todos os componentes e garante que trabalhem em conjunto. Entender cada parte ajuda na montagem, upgrade e manutenção do computador.
+
+<img width="2400" height="2400" alt="b650m-aula-desenhado-do-LELE" src="https://github.com/user-attachments/assets/7113b221-fe41-4c8d-b9ab-a18e5ad9b298" />
+
